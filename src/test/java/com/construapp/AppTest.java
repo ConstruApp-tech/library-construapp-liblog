@@ -1,4 +1,4 @@
-package com.construap;
+package com.construapp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
